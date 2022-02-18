@@ -1,1 +1,2 @@
-# gl_kernel_BaseCamp_2022
+# Linux Kernel GL BaseCamp 2022
+Weekly on Tuesday, Thursday, 17:00 – 18:50
